@@ -21,7 +21,7 @@ Tetum dictionary (i.e. word list) for aspell.
 S³ownik tetum (lista s³ów) dla aspella.
 
 %prep
-%setup -q -n %{name}-%{version}-%{subv}
+%setup -q -n aspell5-tet-%{version}
 
 %build
 # note: configure is not autoconf-generated
