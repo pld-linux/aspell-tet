@@ -1,5 +1,5 @@
 Summary:	Tetum dictionary for aspell
-Summary(pl.UTF-8):   Słownik tetum dla aspella
+Summary(pl.UTF-8):	Słownik tetum dla aspella
 Name:		aspell-tet
 Version:	0.1.1
 #%%define	subv	0
