@@ -1,5 +1,5 @@
 Summary:	Tetum dictionary for aspell
-Summary(pl):	S≥ownik tetum dla aspella
+Summary(pl.UTF-8):   S≈Çownik tetum dla aspella
 Name:		aspell-tet
 Version:	0.1.1
 #%%define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Tetum dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik tetum (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik tetum (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-tet-%{version}
