@@ -7,7 +7,7 @@ Release:	1
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/tet/aspell5-tet-%{version}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/tet/aspell5-tet-%{version}.tar.bz2
 # Source0-md5:	6a18e0253d7d6baa49daca513b0d782b
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 2:0.50.0
